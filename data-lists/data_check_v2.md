@@ -1,169 +1,174 @@
-## [WIKI ENTRY: DATA_CHECK_V2](https://wiki.hackmud.com/upgrades/locks/DATA_CHECK_V2)
+# [WIKI ENTRY: DATA_CHECK_V2](https://wiki.hackmud.com/upgrades/locks/DATA_CHECK_V2)
 
-# What does it do?
+
+## What does it do?
+
 Being a Tier 2 Lock, aka. upgrade to [DATA_CHECK_V1](./data_check_v1.md)
 it also has the possibility to draw questions form a higher tier via the 'acc_mod' stat. 
 
-# What does a solution look like?
+## What does a solution look like?
+
 Same to the previous version, it asks for 3 answers in the same string without a separator.
 
-# is there a list or static information?
+## is there a list or static information?
+
 yes and it will be listed below as a Spoiler tag.
 
 > [Click here for The Answers]
->!
->! ## QUESTION
+
+> ! # QUESTION
+
 >! trust has a diagnostic system. a functioning version can be found at erajbhandari.++++++
 >!
->! # ANSWER
+>! ### ANSWER
 >! diagalpha
 >!
->! ## QUESTION
+>! # QUESTION
 >! the listed components of the breakfast galleon are inside, outside, and ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! crowsnest
 >!
->! ## QUESTION
+>! # QUESTION
 >! a person called anja has lost her ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! blazer
 >!
->! ## QUESTION
+>! # QUESTION
 >! according to skimmerite pattern-seekers, the calibration initiative indicates that humans are ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! dead
 >!
->! ## QUESTION
+>! # QUESTION
 >! according to the calibration initiative, humans are expected to be ++++++ by the content
 >!
->! # ANSWER
+>! ## ANSWER
 >! engaged
 >!
->! ## QUESTION
+>! # QUESTION
 >! according to the suborbital bulletin, flight ++++++ is en route to ho chi minh
 >!
->! # ANSWER
+>! ## ANSWER
 >! a2231
 >!
->! ## QUESTION
+>! # QUESTION
 >! archaic labs specialises in user-++++++ design
 >!
->! # ANSWER
+>! ## ANSWER
 >! obsessive
 >!
->! ## QUESTION
+>! # QUESTION
 >! conditions are clear above ++++++ and the city is within operational radius
 >!
->! # ANSWER
+>! ## ANSWER
 >! atlanta
 >!
->! ## QUESTION
+>! # QUESTION
 >! data does not contain truth is the first part of an idiom spread by the ++++++ assembly
 >!
->! # ANSWER
+>! ## ANSWER
 >! skimmerite
 >!
->! ## QUESTION
+>! # QUESTION
 >! item_id py6874 contains a grand ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! piano
 >!
->! ## QUESTION
+>! # QUESTION
 >! robovac_++++++, moreso than most of its kind, has a tendency to become stuck
 >!
->! # ANSWER
+>! ## ANSWER
 >! idp1p1
 >!
->! ## QUESTION
+>! # QUESTION
 >! robovac_idk3w2 is stuck in a ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! well
 >!
->! ## QUESTION
+>! # QUESTION
 >! sheriff nub holds sway over the town of ol' ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! nubloopstone
 >!
->! ## QUESTION
+>! # QUESTION
 >! sheriff nub's first name is ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! sheriff
 >!
->! ## QUESTION
+>! # QUESTION
 >! the ascent of ++++++ does not concern itself with usefulness
 >!
->! # ANSWER
+>! ## ANSWER
 >! nowhere
 >!
->! ## QUESTION
+>! # QUESTION
 >! the fourth hidden theme is ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! executives
 >!
->! ## QUESTION
+>! # QUESTION
 >! this council of 'revolutionary' robovac-patterns call themselves the ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! thirteen
 >!
->! ## QUESTION
+>! # QUESTION
 >! user ++++++ would leave no stars for the sqrz 480 if they could
 >!
->! # ANSWER
+>! ## ANSWER
 >! bnnyhunter
 >!
->! ## QUESTION
+>! # QUESTION
 >! user le_mon_squeezy's new s:o ref is ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! unvarnishedpygmyumbrella
 >!
->! ## QUESTION
+>! # QUESTION
 >! drones from ++++++ may be instructed to perform their task with excessive urgency
 >!
->! # ANSWER
+>! ## ANSWER
 >! goodfellow
 >!
->! ## QUESTION
+>! # QUESTION
 >! packbot-patterns cannot perceive ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! lime
 >!
->! ## QUESTION
+>! # QUESTION
 >! user ++++++ oversees ComCODE operations
 >!
->! # ANSWER
+>! ## ANSWER
 >! mallory
 >!
->! ## QUESTION
+>! # QUESTION
 >! where angie has a blueprint, mallory has a ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! hammer
 >!
->! ## QUESTION
+>! # QUESTION
 >! trust functions as the ++++++ process
 >!
->! # ANSWER
+>! ## ANSWER
 >! index
 >!
->! ## QUESTION
+>! # QUESTION
 >! between ++++++ and killing is living
 >!
->! # ANSWER
+>! ## ANSWER
 >! making
 >!
->! ## QUESTION
+>! # QUESTION
 >! the designation of the base set is ++++++
 >!
->! # ANSWER
+>! ## ANSWER
 >! 110652
