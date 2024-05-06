@@ -14,108 +14,106 @@ it just wants all 3 answers in a single string, lowercase and no seperator
 
 
 # is there a list or static information?
+<details>
+<summary>yes and it will be listed below as a Spoiler tag.</summary>
 
-yes and it will be listed below as a Spoiler tag.
+> # QUESTION
+> "did you know" is a communication pattern common to user ++++++
+> ## ANSWER
+> fran_lee
 
+> # QUESTION
+>  a ++++++ is a household cleaning device with a rudimentary networked sentience
+> ## ANSWER
+> robovac
 
-> ! [Click here for The Answers]
+> # QUESTION
+>  according to trust, ++++++ is more than just following directives
+> ## ANSWER
+> sentience
 
-> ! # QUESTION
-> ! "did you know" is a communication pattern common to user ++++++
-> ! ## ANSWER
-> ! fran_lee
+> # QUESTION
+> communications issued by user ++++++ demonstrate structural patterns associated with humor
+> ## ANSWER
+> sans_comedy
 
-> ! # QUESTION
-> !  a ++++++ is a household cleaning device with a rudimentary networked sentience
-> ! ## ANSWER
-> ! robovac
+> # QUESTION
+>  in trust's vLAN, you became one of angie's ++++++
+> ## ANSWER
+> angels
 
-> ! # QUESTION
-> !  according to trust, ++++++ is more than just following directives
-> ! ## ANSWER
-> ! sentience
+> # QUESTION
+>  in trust's vLAN, you became one of mallory's ++++++
+> ## ANSWER
+> minions
 
-> ! # QUESTION
-> ! communications issued by user ++++++ demonstrate structural patterns associated with humor
-> ! ## ANSWER
-> ! sans_comedy
+> # QUESTION
+>  in trust's vLAN, you discovered that mallory and che are ++++++
+> ## ANSWER
+> sisters
 
-> ! # QUESTION
-> !  in trust's vLAN, you became one of angie's ++++++
-> ! ## ANSWER
-> ! angels
+> # QUESTION
+>  in trust's vLAN, you encountered the will of ++++++, the prover
+> ## ANSWER
+> petra
 
-> ! # QUESTION
-> !  in trust's vLAN, you became one of mallory's ++++++
-> ! ## ANSWER
-> ! minions
+> # QUESTION
+>  in trust's vLAN, you visited faythe's ++++++
+> ## ANSWER
+> fountain
 
-> ! # QUESTION
-> !  in trust's vLAN, you discovered that mallory and che are ++++++
-> ! ## ANSWER
-> ! sisters
+> # QUESTION
+>  in trust's vLAN, you were required to hack halperyon.++++++
+> ## ANSWER
+> helpdesk
 
-> ! # QUESTION
-> !  in trust's vLAN, you encountered the will of ++++++, the prover
-> ! ## ANSWER
-> ! petra
+> # QUESTION
+>  pet, pest, plague and meme are accurate descriptors of the ++++++
+> ## ANSWER
+> bunnybat
 
-> ! # QUESTION
-> !  in trust's vLAN, you visited faythe's ++++++
-> ! ## ANSWER
-> ! fountain
+> # QUESTION
+>  safety depends on the use of scripts.++++++
+> ## ANSWER
+> get_level
 
-> ! # QUESTION
-> !  in trust's vLAN, you were required to hack halperyon.++++++
-> ! ## ANSWER
-> ! helpdesk
+> # QUESTION
+>  service ++++++ provides atmospheric updates via the port epoch environment
+> ## ANSWER
+> weathernet
 
-> ! # QUESTION
-> !  pet, pest, plague and meme are accurate descriptors of the ++++++
-> ! ## ANSWER
-> ! bunnybat
+> # QUESTION
+>  this fact checking process is a function of ++++++, the monitor
+> ## ANSWER
+> eve
 
-> ! # QUESTION
-> !  safety depends on the use of scripts.++++++
-> ! ## ANSWER
-> ! get_level
+> # QUESTION
+>  trust's vLAN emphasized the importance of the transfer and capture of ++++++
+> ## ANSWER
+> resource
 
-> ! # QUESTION
-> !  service ++++++ provides atmospheric updates via the port epoch environment
-> ! ## ANSWER
-> ! weathernet
+> # QUESTION
+>  trust's vLAN presented a version of angie who had lost a friend called ++++++
+> ## ANSWER
+> bo
 
-> ! # QUESTION
-> !  this fact checking process is a function of ++++++, the monitor
-> ! ## ANSWER
-> ! eve
+> # QUESTION
+>  user 'on_th3_1ntern3ts' has ++++++ many things
+> ## ANSWER
+> heard
 
-> ! # QUESTION
-> !  trust's vLAN emphasized the importance of the transfer and capture of ++++++
-> ! ## ANSWER
-> ! resource
+> # QUESTION
+>  user ++++++ provides instruction via script
+> ## ANSWER
+> teach
 
-> ! # QUESTION
-> !  trust's vLAN presented a version of angie who had lost a friend called ++++++
-> ! ## ANSWER
-> ! bo
+> # QUESTION
+>  user ++++++ uses the port epoch environment to request gc
+> ## ANSWER
+> outta_juice
 
-> ! # QUESTION
-> !  user 'on_th3_1ntern3ts' has ++++++ many things
-> ! ## ANSWER
-> ! heard
-
-> ! # QUESTION
-> !  user ++++++ provides instruction via script
-> ! ## ANSWER
-> ! teach
-
-> ! # QUESTION
-> !  user ++++++ uses the port epoch environment to request gc
-> ! ## ANSWER
-> ! outta_juice
-
-> ! # QUESTION
-> !  users gather in channel CAFE to share ++++++
-> ! ## ANSWER
-> ! poetry
+> # QUESTION
+>  users gather in channel CAFE to share ++++++
+> ## ANSWER
+> poetry
+</details>

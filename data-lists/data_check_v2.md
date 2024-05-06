@@ -12,163 +12,136 @@ Same to the previous version, it asks for 3 answers in the same string without a
 
 ## is there a list or static information?
 
-yes and it will be listed below as a Spoiler tag.
+<details>
+<summary>yes and it will be listed below as a Spoiler tag.</summary>
 
-> [Click here for The Answers]
+>  # QUESTION
+>  trust has a diagnostic system. a functioning version can be found at erajbhandari.++++++
+>  ### ANSWER
+>  diagalpha
 
-> ! # QUESTION
+>  # QUESTION
+>  the listed components of the breakfast galleon are inside, outside, and ++++++
+>  ## ANSWER
+>  crowsnest
 
-> ! trust has a diagnostic system. a functioning version can be found at erajbhandari.++++++
+>  # QUESTION
+>  a person called anja has lost her ++++++
+>  ## ANSWER
+>  blazer
 
-> ! ### ANSWER
-> ! diagalpha
+>  # QUESTION
+>  according to skimmerite pattern-seekers, the calibration initiative indicates that humans are ++++++
+>  ## ANSWER
+>  dead
 
-> ! # QUESTION
-> ! the listed components of the breakfast galleon are inside, outside, and ++++++
+>  # QUESTION
+>  according to the calibration initiative, humans are expected to be ++++++ by the content
+>  ## ANSWER
+>  engaged
 
-> ! ## ANSWER
-> ! crowsnest
+>  # QUESTION
+>  according to the suborbital bulletin, flight ++++++ is en route to ho chi minh
+>  ## ANSWER
+>  a2231
 
-> ! # QUESTION
-> ! a person called anja has lost her ++++++
+>  # QUESTION
+>  archaic labs specialises in user-++++++ design
+>  ## ANSWER
+>  obsessive
 
-> ! ## ANSWER
-> ! blazer
+>  # QUESTION
+>  conditions are clear above ++++++ and the city is within operational radius
+>  ## ANSWER
+>  atlanta
 
-> ! # QUESTION
-> ! according to skimmerite pattern-seekers, the calibration initiative indicates that humans are ++++++
+>  # QUESTION
+>  data does not contain truth is the first part of an idiom spread by the ++++++ assembly
+>  ## ANSWER
+>  skimmerite
 
-> ! ## ANSWER
-> ! dead
+>  # QUESTION
+>  item_id py6874 contains a grand ++++++
+>  ## ANSWER
+>  piano
 
-> ! # QUESTION
-> ! according to the calibration initiative, humans are expected to be ++++++ by the content
+>  # QUESTION
+>  robovac_++++++, moreso than most of its kind, has a tendency to become stuck
+>  ## ANSWER
+>  idp1p1
 
-> ! ## ANSWER
-> ! engaged
+>  # QUESTION
+>  robovac_idk3w2 is stuck in a ++++++
+>  ## ANSWER
+>  well
 
-> ! # QUESTION
-> ! according to the suborbital bulletin, flight ++++++ is en route to ho chi minh
+>  # QUESTION
+>  sheriff nub holds sway over the town of ol' ++++++
+>  ## ANSWER
+>  nubloopstone
 
-> ! ## ANSWER
-> ! a2231
+>  # QUESTION
+>  sheriff nub's first name is ++++++
+>  ## ANSWER
+>  sheriff
 
-> ! # QUESTION
-> ! archaic labs specialises in user-++++++ design
+>  # QUESTION
+>  the ascent of ++++++ does not concern itself with usefulness
+>  ## ANSWER
+>  nowhere
 
-> ! ## ANSWER
-> ! obsessive
+>  # QUESTION
+>  the fourth hidden theme is ++++++
+>  ## ANSWER
+>  executives
 
-> ! # QUESTION
-> ! conditions are clear above ++++++ and the city is within operational radius
+>  # QUESTION
+>  this council of 'revolutionary' robovac-patterns call themselves the ++++++
+>  ## ANSWER
+>  thirteen
 
-> ! ## ANSWER
-> ! atlanta
+>  # QUESTION
+>  user ++++++ would leave no stars for the sqrz 480 if they could
+>  ## ANSWER
+>  bnnyhunter
 
-> ! # QUESTION
-> ! data does not contain truth is the first part of an idiom spread by the ++++++ assembly
+>  # QUESTION
+>  user le_mon_squeezy's new s:o ref is ++++++
+>  ## ANSWER
+>  unvarnishedpygmyumbrella
 
-> ! ## ANSWER
-> ! skimmerite
+>  # QUESTION
+>  drones from ++++++ may be instructed to perform their task with excessive urgency
+>  ## ANSWER
+>  goodfellow
 
-> ! # QUESTION
-> ! item_id py6874 contains a grand ++++++
+>  # QUESTION
+>  packbot-patterns cannot perceive ++++++
+>  ## ANSWER
+>  lime
 
-> ! ## ANSWER
-> ! piano
+>  # QUESTION
+>  user ++++++ oversees ComCODE operations
+>  ## ANSWER
+>  mallory
 
-> ! # QUESTION
-> ! robovac_++++++, moreso than most of its kind, has a tendency to become stuck
+>  # QUESTION
+>  where angie has a blueprint, mallory has a ++++++
+>  ## ANSWER
+>  hammer
 
-> ! ## ANSWER
-> ! idp1p1
+>  # QUESTION
+>  trust functions as the ++++++ process
+>  ## ANSWER
+>  index
 
-> ! # QUESTION
-> ! robovac_idk3w2 is stuck in a ++++++
+>  # QUESTION
+>  between ++++++ and killing is living
+>  ## ANSWER
+>  making
 
-> ! ## ANSWER
-> ! well
-
-> ! # QUESTION
-> ! sheriff nub holds sway over the town of ol' ++++++
-
-> ! ## ANSWER
-> ! nubloopstone
-
-> ! # QUESTION
-> ! sheriff nub's first name is ++++++
-
-> ! ## ANSWER
-> ! sheriff
-
-> ! # QUESTION
-> ! the ascent of ++++++ does not concern itself with usefulness
-
-> ! ## ANSWER
-> ! nowhere
-
-> ! # QUESTION
-> ! the fourth hidden theme is ++++++
-
-> ! ## ANSWER
-> ! executives
-
-> ! # QUESTION
-> ! this council of 'revolutionary' robovac-patterns call themselves the ++++++
-
-> ! ## ANSWER
-> ! thirteen
-
-> ! # QUESTION
-> ! user ++++++ would leave no stars for the sqrz 480 if they could
-
-> ! ## ANSWER
-> ! bnnyhunter
-
-> ! # QUESTION
-> ! user le_mon_squeezy's new s:o ref is ++++++
-
-> ! ## ANSWER
-> ! unvarnishedpygmyumbrella
-
-> ! # QUESTION
-> ! drones from ++++++ may be instructed to perform their task with excessive urgency
-
-> ! ## ANSWER
-> ! goodfellow
-
-> ! # QUESTION
-> ! packbot-patterns cannot perceive ++++++
-
-> ! ## ANSWER
-> ! lime
-
-> ! # QUESTION
-> ! user ++++++ oversees ComCODE operations
-
-> ! ## ANSWER
-> ! mallory
-
-> ! # QUESTION
-> ! where angie has a blueprint, mallory has a ++++++
-
-> ! ## ANSWER
-> ! hammer
-
-> ! # QUESTION
-> ! trust functions as the ++++++ process
-
-> ! ## ANSWER
-> ! index
-
-> ! # QUESTION
-> ! between ++++++ and killing is living
-
-> ! ## ANSWER
-> ! making
-
-> ! # QUESTION
-> ! the designation of the base set is ++++++
-
-> ! ## ANSWER
-> ! 110652
+>  # QUESTION
+>  the designation of the base set is ++++++
+>  ## ANSWER
+>  110652
+</details>
