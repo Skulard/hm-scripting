@@ -17,7 +17,7 @@ Same to the previous version, it asks for 3 answers in the same string without a
 
 >  # QUESTION
 >  trust has a diagnostic system. a functioning version can be found at erajbhandari.++++++
->  ### ANSWER
+>  ## ANSWER
 >  diagalpha
 
 >  # QUESTION
